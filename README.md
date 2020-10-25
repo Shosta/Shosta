@@ -1,14 +1,23 @@
 ## Hey 👋, I'm [Rémi Lavedrine!](https://github.com/Shosta/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/remilavedrine/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shostarsson)
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig)
+[![Twitch Badge](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shostarsson/)
+[![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/shostarsson)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/4098847/rems)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@remi.lavedrine)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shostarsson)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remilavedrine/)
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I have been involved in the software industry for over a decade now, having spent the majority of time as a mobile and software developer. I have worked additionally in DevOps and now my career has taken me into security, specifically as a security engineer for the banking industry. I have experience in almost every aspect of the SDLC from planning to release, and today my focus is on ensuring that the security is in the forefront of everyone’s mind, from planning to release. 
+I have been involved in the software industry for over a decade now, having spent the majority of time as a mobile and software developer. I have worked additionally in DevOps and now my career has taken me into security, specifically as an **Application Security Engineer**.
+Today my focus is on ensuring that the security is in the forefront of everyone’s mind, from planning to release. 
 
-On my spare time, I love to contribute on Open Source software (OWASP) and build software to automatize parts of penetration testing (Go and Python are my favorites languages for that). I am working on some bug bounty, like HackerOne or BountyFactory.
-I love to share my knowledge, that's why I am posting videos about software security on Twitch and Youtube.
+On my spare time, I love to contribute to Open Source software (*OWASP*) and build software to automatize parts of penetration testing (*Go 🐭 and Python 🐍 are my favorites languages for that*).
+I am also working on some bug bounties, like HackerOne or BountyFactory, just for fun.
+
+I love to share my knowledge, that's why I am posting **videos about Software Security** on [Twitch](https://www.twitch.tv/shostarsson/) and [Youtube](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
 
 ► I am a fast learner and I am always eager to learn new things to expand my knowledge and go out of my comfort zone.
 - 🎸 &nbsp; I learn how to play the guitar on my own.
@@ -18,13 +27,13 @@ I love to share my knowledge, that's why I am posting videos about software secu
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Go, Python, Docker, <br /> Azure, Hacking Web & Mobile, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Go, Python, Docker, <br /> Azure and Hacking Web & Mobile.
 - 🚀 &nbsp; I’m currently learning extensively Docker and Azure.
 - 📹 &nbsp; I'm making videos about Offensive & Defensive Security and Development. Check them [here](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shosta).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Shosta/Shosta/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: twitter.com/shostarsson
+- 📫 &nbsp; How to reach me: [twitter.com/shostarsson](https://twitter.com/shostarsson)
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shosta/Shosta/blob/master/resume.pdf).
 
 ### Languages and Tools:
@@ -39,8 +48,8 @@ I love to share my knowledge, that's why I am posting videos about software secu
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby"></code>
-<code><img height="25" src="
-https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"></code>
+<code><img height="25" src="https://i.pinimg.com/originals/c0/86/28/c08628b24b338c690558d9c212634a5e.png" alt="Burp Suite"></code>
 
 
 <!--
