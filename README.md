@@ -18,12 +18,13 @@ I love to share my knowledge, that's why I am posting videos about software secu
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Go, Python,Docker, <br /> Azure, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Docker and Azure.
+- 🛠 &nbsp; I’m currently working with Go, Python, Docker, <br /> Azure, Hacking Web & Mobile, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning extensively Docker and Azure.
+- 📹 &nbsp; I'm making videos about Offensive & Defensive Security and Development. Check them [here](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shosta).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Shosta/Shosta/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com
+- 📫 &nbsp; How to reach me: twitter.com/shostarsson
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shosta/Shosta/blob/master/resume.pdf).
 
 ### Languages and Tools:
