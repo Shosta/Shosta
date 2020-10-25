@@ -11,8 +11,8 @@ On my spare time, I love to contribute on Open Source software (OWASP) and build
 I love to share my knowledge, that's why I am posting videos about software security on Twitch and Youtube.
 
 ► I am a fast learner and I am always eager to learn new things to expand my knowledge and go out of my comfort zone.
-● 🎸 &nbsp; I learn how to play the guitar on my own.
-● 🇩🇰 &nbsp; I learn Danish as a way to sharpen my mind and speak with my danish friends in their native tongue. 
+- 🎸 &nbsp; I learn how to play the guitar on my own.
+- 🇩🇰 &nbsp; I learn Danish as a way to sharpen my mind and speak with my danish friends in their native tongue. 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
