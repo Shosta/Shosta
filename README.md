@@ -11,13 +11,22 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
+---
+
+### 🤔 About me 🤔
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shosta&hide_langs_below=.25">
+  
 I have been involved in the software industry for over a decade now, having spent the majority of time as a mobile and software developer. I have worked additionally in DevOps and now my career has taken me into security, specifically as an **Application Security Engineer**.
 Today my focus is on ensuring that the security is in the forefront of everyone’s mind, from planning to release. 
 
 On my spare time, I love to contribute to Open Source software (*OWASP*) and build software to automatize parts of penetration testing (*Go 🐭 and Python 🐍 are my favorites languages for that*).
 I am also working on some bug bounties, like HackerOne or BountyFactory, just for fun.
 
-I love to share my knowledge, that's why I am posting **videos about Software Security** on [Twitch](https://www.twitch.tv/shostarsson/) and [Youtube](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
+I love to share my knowledge, that's why I am posting **videos about Software Security** on
+[![Twitch Badge](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shostarsson/)
+and 
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
 
 ► I am a fast learner and I am always eager to learn new things to expand my knowledge and go out of my comfort zone.
 - 🎸 &nbsp; I learn how to play the guitar on my own.
@@ -25,8 +34,8 @@ I love to share my knowledge, that's why I am posting **videos about Software Se
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
-
+###  🎯 Talking about Personal Stuffs  🎯
+	
 - 🛠 &nbsp; I’m currently working with Go, Python, Docker, <br /> Azure and Hacking Web & Mobile.
 - 🚀 &nbsp; I’m currently learning extensively Docker and Azure.
 - 📹 &nbsp; I'm making videos about Offensive & Defensive Security and Development. Check them [here](https://www.youtube.com/channel/UCloKU_jdC9dVS6xh-lJ1Jig).
@@ -36,27 +45,27 @@ I love to share my knowledge, that's why I am posting **videos about Software Se
 - 📫 &nbsp; How to reach me: [twitter.com/shostarsson](https://twitter.com/shostarsson)
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shosta/Shosta/blob/master/resume.pdf).
 
-### Languages and Tools:
+### 👨‍💻 Languages and Tools 👨‍💻
 
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go"></code>
+<p><img
+  align="left"
+  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+  width="230"/>
+
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go"></code> 
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android Hacking"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="iOS Hacking"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code><p>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code><p>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android Hacking"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="iOS Hacking"></code>
 <code><img height="25" src="https://i.pinimg.com/originals/c0/86/28/c08628b24b338c690558d9c212634a5e.png" alt="Burp Suite"></code>
 
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
-### Projects and Dev Stuffs:
+### 👨‍🏫 Projects and Dev Stuffs 👨‍🏫
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -78,8 +87,6 @@ I love to share my knowledge, that's why I am posting **videos about Software Se
 	<!-- ⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>. -->
 	</ul>	
 </details>
-
-#
 
 <div align="center">
 
